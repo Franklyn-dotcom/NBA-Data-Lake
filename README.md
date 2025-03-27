@@ -96,7 +96,7 @@ As an additional (non challenge) feature, I created a folder in the S3 bucket na
 ![macie-sucess](/Images/success-macie-scan.png)
 
 ## Resource
-[AWS Macie](https://www.youtube.com/watch?v=weV5JvX-lgo)
-[SportData IO API](https://sportsdata.io/)
-[AWS Glue Documentation](https://docs.aws.amazon.com/glue/)
+- [AWS Macie](https://www.youtube.com/watch?v=weV5JvX-lgo)
+- [SportData IO API](https://sportsdata.io/)
+- [AWS Glue Documentation](https://docs.aws.amazon.com/glue/)
 
